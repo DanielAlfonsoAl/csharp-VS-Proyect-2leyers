@@ -1,0 +1,28 @@
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.exe
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\bin\Debug\LibNotas.dll
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\bin\Debug\LibNotas.pdb
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.AssemblyReference.cache
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.SuggestedBindingRedirects.cache
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.Form1.resources
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.cache
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.CopyComplete
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+D:\Moises SENA\csharp\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.exe
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\bin\Debug\LibNotas.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\bin\Debug\LibNotas.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.AssemblyReference.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.Form1.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.CopyComplete
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\AppNotas\AppNotas\obj\Debug\AppNotas.pdb

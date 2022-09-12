@@ -1,0 +1,7 @@
+Realizar una aplicación de dos capas (logica de negocio y presentación) Para un sistema de calificaciones.
+
+Se ingresa la identificación del estudiante, nombre y 4 notas, Calcular e imprimir el promedio.
+
+Teniendo en cuenta que cada nota va de 0 a 5.
+
+Diagrama de clase y diseño de capa de presentación.

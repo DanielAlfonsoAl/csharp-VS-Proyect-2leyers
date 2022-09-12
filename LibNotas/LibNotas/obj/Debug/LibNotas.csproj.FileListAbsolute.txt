@@ -1,0 +1,12 @@
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\bin\Debug\LibNotas.dll
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\bin\Debug\LibNotas.pdb
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.csproj.AssemblyReference.cache
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.csproj.CoreCompileInputs.cache
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.dll
+D:\Moises SENA\csharp\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\bin\Debug\LibNotas.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\bin\Debug\LibNotas.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.csproj.AssemblyReference.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.csproj.CoreCompileInputs.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\Promedio\LibNotas\LibNotas\obj\Debug\LibNotas.pdb
